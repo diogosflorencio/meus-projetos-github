@@ -1,4 +1,4 @@
-<h1 align="center"> Meus Projetos Pessoais </h1>
+<h1 align="center"> Meus Projetos </h1>
 
 **Seja bem-vindo ao meu portfólio de projetos no Github!** Aqui você encontrará uma lista completa dos meus projetos pessoais, organizados por ano e mês de criação. Cada projeto inclui uma descrição detalhada, screenshots e links para o repositório completo.
 

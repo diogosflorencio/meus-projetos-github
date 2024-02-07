@@ -42,7 +42,7 @@
 * **Descrição:** Uma ferramenta que gera estatísticas sobre seus repositórios do Github, como número de commits, forks e estrelas.
 * **Linguagens:** Python
 * **Screenshots:** Imagem da interface da ferramenta: <URL inválido removido>
-* **Link:** [statistics](https://github.com/diogosflorencio/statistics)
+* **Link:** [Statistics](https://github.com/diogosflorencio/statistics)
 </details>
 <details>
    <summary><h3>Fevereiro</h3></summary>

@@ -20,28 +20,24 @@
 
 * **Descrição:** Um aplicativo web simples para criar e gerenciar listas de tarefas.
 * **Linguagens:** HTML, CSS, JavaScript
-* **Screenshots:** Imagem da interface do aplicativo: <URL inválido removido>
 * **Link:** [Checklist](https://github.com/diogosflorencio/checklist)
 
 **• Calculadora**
 
 * **Descrição:** Uma calculadora básica com operações matemáticas simples e avançadas.
 * **Linguagens:** HTML, CSS, JavaScript
-* **Screenshots:** Imagem da interface da calculadora: <URL inválido removido>
 * **Link:** [Calculadora](https://github.com/diogosflorencio/Calculadora)
 
 **• Relógio**
 
 * **Descrição:** Um relógio digital com diferentes estilos de exibição e funcionalidades como alarme e cronômetro.
 * **Linguagens:** HTML, CSS, JavaScript
-* **Screenshots:** Imagem da interface do relógio: <URL inválido removido>
 * **Link:** [Relogio](https://github.com/diogosflorencio/relogio)
 
 **• Github Statistics**
 
 * **Descrição:** Uma ferramenta que gera estatísticas sobre seus repositórios do Github, como número de commits, forks e estrelas.
 * **Linguagens:** Python
-* **Screenshots:** Imagem da interface da ferramenta: <URL inválido removido>
 * **Link:** [Statistics](https://github.com/diogosflorencio/statistics)
 </details>
 <details>
@@ -51,8 +47,13 @@
 
 * **Descrição:** Um aplicativo web que fornece informações sobre o clima em tempo real para qualquer local do mundo.
 * **Linguagens:** HTML, CSS, JavaScript, API OpenWeatherMap
-* **Screenshots:** Imagem da interface do aplicativo: <URL inválido removido>
 * **Link:** [Clima](https://github.com/diogosflorencio/clima)
+
+**• Snake**
+
+* **Descrição:** O jogo da cobrinha feito de forma simples com o uso e manipulação do canvas.
+* **Linguagens:** HTML, CSS, JavaScript
+* **Link:** [Snake](https://github.com/diogosflorencio/clima)
 
 </details>
 </details> 

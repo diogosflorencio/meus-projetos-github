@@ -76,7 +76,5 @@ Em caso de dúvidas ou sugestões, entre em contato comigo através do meu perfi
 
 **Espero que você goste do meu portfólio!**
 
-**Espero que este README te ajude a organizar e apresentar seus projetos de forma profissional e atraente!**
-
 
 
